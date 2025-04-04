@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1_BDD", "TP1_BDD\TP1_BDD.csproj", "{8871F016-074D-4B82-9509-1B5BBB9863B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1_BDD_Calculator", "TP1_BDD_Calculator\TP1_BDD_Calculator.csproj", "{B8D62238-0B59-4145-A4F2-04F437239E6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8871F016-074D-4B82-9509-1B5BBB9863B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8871F016-074D-4B82-9509-1B5BBB9863B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8871F016-074D-4B82-9509-1B5BBB9863B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D62238-0B59-4145-A4F2-04F437239E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D62238-0B59-4145-A4F2-04F437239E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D62238-0B59-4145-A4F2-04F437239E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D62238-0B59-4145-A4F2-04F437239E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
